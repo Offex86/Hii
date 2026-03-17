@@ -1,4 +1,4 @@
-/**
+/*
  * Advanced VLESS/Trojan Worker with Admin Panel
  * Features: UUID Gen, Proxy IP Change, Port Control, UDP Toggle
  * Access: your-domain.com/panel
