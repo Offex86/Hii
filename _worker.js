@@ -9,7 +9,6 @@ import { connect } from 'cloudflare:sockets';
 // Global variables to store settings in memory
 let globalConfig = {
     userID: 'd342d11e-d424-4583-b36e-524ab1f0afa4',
-    proxyIP: '', // Default Gaming IP
     panelPass: 'admin'
 };
 
